@@ -1,5 +1,5 @@
 ---
-title: Saira Traffiic Project
+title: Realtime Traffic sign detection using YOLO
 emoji: 🔥
 colorFrom: yellow
 colorTo: indigo
@@ -10,3 +10,4 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
